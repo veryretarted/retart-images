@@ -1988,5 +1988,15 @@
     "tokenId": 409,
     "name": "tiger retart",
     "description": "this retart enjoys frosted flakes !"
+  },
+  {
+    "tokenId": 410,
+    "name": "alien fumo retart",
+    "description": "this retart is a giant fumo . maybe even the most fumo ever"
+  },
+  {
+    "tokenId": 411,
+    "name": "juice retart",
+    "description": "this retart is apol flavored >:)"
   }
 ]
