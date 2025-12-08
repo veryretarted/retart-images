@@ -2013,5 +2013,15 @@
     "tokenId": 415,
     "name": "snowman retart",
     "description": "retart the snowman is a jolly happy soul :)"
+  },
+  {
+    "tokenId": 417,
+    "name": "christmas elf retart",
+    "description": "this retart is chained to a table in santas workshop !"
+  },
+  {
+    "tokenId": 418,
+    "name": "gingerbread retart",
+    "description": "this retart is having an existential crisis ! is the house made of gingerbread , or is he made of house ? D:"
   }
 ]
