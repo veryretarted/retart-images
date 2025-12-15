@@ -2023,5 +2023,20 @@
     "tokenId": 418,
     "name": "gingerbread retart",
     "description": "this retart is having an existential crisis ! is the house made of gingerbread , or is he made of house ? D:"
+  },
+  {
+    "tokenId": 419,
+    "name": "santa retart",
+    "description": "this retart is making a list and checking it twice !"
+  },
+  {
+    "tokenId": 420,
+    "name": "rudolph retart",
+    "description": "retart the red nosed reindeer ~ had a very shiny nose !"
+  },
+  {
+    "tokenId": 421,
+    "name": "snowflake retart",
+    "description": "this retart is a special snowflake !"
   }
 ]
