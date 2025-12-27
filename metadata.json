@@ -2038,5 +2038,20 @@
     "tokenId": 421,
     "name": "snowflake retart",
     "description": "this retart is a special snowflake !"
+  },
+  {
+    "tokenId": 422,
+    "name": "anatomical heart retart",
+    "description": "this retart is beating one thousand times per minute !"
+  },
+  {
+    "tokenId": 423,
+    "name": "brain retart",
+    "description": "this retart thought too hard about it and needs to sit down for a bit !"
+  },
+  {
+    "tokenId": 424,
+    "name": "dragonfruit retart",
+    "description": "this retart is a spiky hot pink fruit !"
   }
 ]
